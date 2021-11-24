@@ -1,1 +1,1 @@
-# personal-website
+# Example personal website design
